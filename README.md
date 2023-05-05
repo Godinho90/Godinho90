@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there! 👋 
+
+Welcome to my profile!
+
+___________________________
+
+:construction::warning:Currently under construction!:warning::construction:
 
 <!--
 **Godinho90/Godinho90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
