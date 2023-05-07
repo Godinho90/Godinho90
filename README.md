@@ -1,7 +1,13 @@
-<h1> Hello there, I'm Rui! 👋 </h1>
 
-<h3> Junior FullStack Developer </h3>
+<h1 align="center"> Hello there, I'm Rui! 👋 </h1>
 
+<h3 align="center"> Junior FullStack Developer </h3>
+
+<p align="center"> 
+🚀 🚀 🚀 
+</p> 
+
+<br>
 😄 I've recently completed the 14-Week intensive and immersive FullStack Programming Bootcamp at <Academia de Código_>,  
 #81 -> POWrangers! POW! POW! POW!
 
