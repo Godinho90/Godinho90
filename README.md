@@ -13,18 +13,21 @@
 
 <h4>Backend</h4>
 
-- Java
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+<img src="https://github.com/Godinho90/Godinho90/blob/main/icons/java-original.svg" alt="java" width="60" height="60"/>
 
 <h4>Frontend</h4>
+<p align="left">
+<img src="https://github.com/Godinho90/Godinho90/blob/main/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
 
-- HTML
-- CSS
-- Javascript
+<img src="https://github.com/Godinho90/Godinho90/blob/main/icons/css3-original-wordmark.svg" alt="css" width="60" height="60"/>
+
+<img src="https://github.com/Godinho90/Godinho90/blob/main/icons/html5-original-wordmark.svg" alt="html" width="60" height="60"/>
+</p>
 
 <h4>Database</h4>
 
-- MySQL
+<img src="https://github.com/Godinho90/Godinho90/blob/main/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
+
 
 <!--
 **Godinho90/Godinho90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
