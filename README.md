@@ -20,7 +20,7 @@
 <h4>Backend</h4>
 <p align="left">
 <img src="https://github.com/Godinho90/Godinho90/blob/main/icons/java-original.svg" alt="java" width="60" height="60"/>
-<img src="https://github.com/Godinho90/Godinho90/blob/main/icons/Ruby_on_Rails_logo.svg" alt="ror" width="60" height="60"/>
+<img src="https://github.com/Godinho90/Godinho90/blob/main/icons/Ruby_On_Rails_Logo.svg.png" alt="ror" width="80" height="60"/>
 </p>
 
 <h4>Frontend</h4>
