@@ -18,8 +18,10 @@
 <h3>Technologies I know or I'm learning</h3>
 
 <h4>Backend</h4>
-
+<p align="left">
 <img src="https://github.com/Godinho90/Godinho90/blob/main/icons/java-original.svg" alt="java" width="60" height="60"/>
+<img src="https://github.com/Godinho90/Godinho90/blob/main/icons/ror.svg" alt="ror" width="60" height="60"/>
+</p>
 
 <h4>Frontend</h4>
 <p align="left">
